@@ -4,8 +4,13 @@ This repository contains lab programs for **MCA Semester 3**, organized into two
 
 - 📊 Data Science & Machine Learning using Python (Jupyter Notebook)
 - 📱 Mobile Application Development using Java (Android Studio)
+- A separate **minor project** is maintained in another repository named `PROJECT-1`
 
-A separate **minor project** is maintained in another repository named `PROJECT-1`.
+---
+
+## 🔬 Minor Project
+
+📁 Project Repository: [`PROJECT-1`](https://github.com/muralikrishna-cec/PROJECT-1)  
 
 ---
 
@@ -58,12 +63,6 @@ MCA-S3/
 
 ---
 
-## 🔬 Minor Project
-
-📁 Project Repository: [`PROJECT-1`](https://github.com/muralikrishna-cec/PROJECT-1)  
-
----
-
 ## 📌 Technologies Used
 
 - `Python 3.x`
@@ -71,7 +70,6 @@ MCA-S3/
 - `scikit-learn`, `pandas`, `matplotlib`, `seaborn`
 - `Java`
 - `Android Studio`
-
 
 ---
 
