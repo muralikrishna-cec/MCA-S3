@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LifeCycle</string>
+    <string name="onCreate" />
+    <string name="onStart" />
+    <string name="onPause" />
+    <string name="onStop" />
+    <string name="onRestart" />
+    <string name="onDestroy" />
+    <string name="onstop">onStop</string>
+    <string name="ondestroy">onDestroy</string>
+    <string name="onrestart">onRestart</string>
+    <string name="onpause">onPause</string>
+    <string name="onstart">onStart</string>
+    <string name="oncreate">onCreate</string>
+    <string name="activity_lifecycle">Activity Lifecycle</string>
+</resources>
