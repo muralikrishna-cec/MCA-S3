@@ -73,5 +73,5 @@ MCA-S3/
 
 ---
 
-> 📍 If you find any issues or bugs, feel free to raise them or submit a PR 🙌  
+> 📍 If you find any issues or bugs, feel free to raise them or submit a PR   
 > 🗂️ Organized for easy navigation and future reference.
