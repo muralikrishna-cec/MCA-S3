@@ -31,13 +31,13 @@
         android:id="@+id/relativeButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="RelativeLayout" />/>
+        android:text="RelativeLayout" />
 
     <Button
         android:id="@+id/frameButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="FrameLayout" /> />
+        android:text="FrameLayout" /> 
 
     <Button
         android:id="@+id/tableButton"

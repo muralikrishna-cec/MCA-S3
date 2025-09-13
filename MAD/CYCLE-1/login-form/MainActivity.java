@@ -27,8 +27,8 @@ public class MainActivity extends AppCompatActivity {
         password=findViewById(R.id.pwd);
         login=findViewById(R.id.lgn);
 
-        login.setOnClickListener(view ->
-        {
+        login.setOnClickListener(view ->{
+            
             String enteredUname=username.getText().toString().trim();
             String enteredPass=password.getText().toString().trim();
 

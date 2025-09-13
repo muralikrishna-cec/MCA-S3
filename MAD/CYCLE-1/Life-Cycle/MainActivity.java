@@ -1,7 +1,6 @@
 package com.example.lifecycle;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.Toast;
@@ -35,8 +34,6 @@ public class MainActivity extends AppCompatActivity {
         showToast("Activity Started");
     }
 
-
-
     @Override
     protected void onPause() {
         super.onPause();
@@ -67,10 +64,8 @@ public class MainActivity extends AppCompatActivity {
         showToast("Activity Destroyed");
     }
 
-
     private void showToast(String msg) {
         Toast.makeText(this,msg,Toast.LENGTH_SHORT).show();
     }
-
 
 }

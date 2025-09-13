@@ -1,13 +1,13 @@
 package com.example.myapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
+
     private TextView textView1;
     private Button button1,button2,button3,button4,button5,button6,button7,button8,button9,button0;
     private Button buttonAdd,buttonSub,buttonMul,buttonDiv,buttonDot,buttonEqual;
@@ -53,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private double performOperation(double operand1,double operand2,String operator){
+        
         switch (operator){
             case "+":
                 return operand1 + operand2;
