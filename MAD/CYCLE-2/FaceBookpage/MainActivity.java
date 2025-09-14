@@ -38,8 +38,6 @@ public class MainActivity extends AppCompatActivity {
                 showToast("You Clicked Share Button");
             }
         });
-
-
     }
 
     private void showToast(String message){

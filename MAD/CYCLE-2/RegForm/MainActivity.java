@@ -1,7 +1,6 @@
 package com.example.registartion;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
@@ -14,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     private EditText usrname,email,passd;
     private Button regbtn;
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
