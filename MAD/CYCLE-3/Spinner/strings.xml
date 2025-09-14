@@ -2,7 +2,8 @@
 <resources>
     <string name="app_name">Spinner App</string>
 
-        <string-array name="languages_array"><item>Java</item>
+        <string-array name="languages_array">
+            <item>Java</item>
             <item>Python</item>
             <item>C++</item>
             <item>Kotlin</item>

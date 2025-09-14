@@ -1,7 +1,6 @@
 package com.example.newmenu;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
 public class activityTwo extends AppCompatActivity {

@@ -3,7 +3,6 @@ package com.example.newarrayadapter;
 import static com.example.newarrayadapter.R.id.listView;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
@@ -21,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
         ArrayAdapter<String>adapter=new ArrayAdapter<>(this
                 ,android.R.layout.simple_list_item_1,fruits);
+                
         listView.setAdapter(adapter);
     }
 }
