@@ -4,7 +4,7 @@ Q1. Load Chipotle dataset from GitHub.
 
 import pandas as pd
 
-url = "https://raw.githubusercontent.com/thechaudharysab/Chipotle-data_analysis-example/master/chipotle.tsv"
+url = "https://raw.githubusercontent.com/muralikrishna-cec/MCA-S3/master/chipotle.tsv"
 df = pd.read_csv(url, sep="\t")
 print("Chipotle DataFrame:\n", df.head(), "\n")
 
